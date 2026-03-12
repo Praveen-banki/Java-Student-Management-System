@@ -5,7 +5,7 @@ A simple Java console application to manage student records.
 
 ## Technologies Used
 - Java
-- OOPs Concepts
+- OOP Concepts
 - ArrayList
 - Scanner
 
